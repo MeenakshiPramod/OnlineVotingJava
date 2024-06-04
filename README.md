@@ -2,7 +2,7 @@
 # Online Voting Platform
 
 ## Overview
-OneIndia - The Online Voting Platform is a simple Java-based GUI application that allows users to cast votes for candidates representing different parties. It ensures that each voter votes only once and counts the votes for each party, displaying the results in the GUI.
+OneIndia - The Online Voting Platform is a simple Java-based GUI application that allows users to cast votes for candidates representing different parties. It ensures that each voter votes only once and counts the votes for each party, displaying the results in the GUI. It was developed as part of my data structures lab project.
 
 ## Features
 1. Cast votes using a 6-digit voter ID.
